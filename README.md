@@ -1,6 +1,6 @@
 # UTS Pengembangan Aplikasi Mobile 
-Ini adalah repositori untuk proyek Ujian Tengah Semester (UTS) mata kuliah Pengembangan Aplikasi Mobile. Studi kasus yang diambil adalah pembuatan aplikasi sederhana untuk pemesanan seblak bernama "SeblakKu". ---
-
+Ini adalah repositori untuk proyek Ujian Tengah Semester (UTS) mata kuliah Pengembangan Aplikasi Mobile. Studi kasus yang diambil adalah pembuatan aplikasi sederhana untuk pemesanan seblak bernama "SeblakKu".
+SeblakKu adalah aplikasi Android prototipe yang dibuat untuk proyek UTS Pengembangan Aplikasi Mobile. Aplikasi ini mensimulasikan alur pemesanan seblak, mulai dari menampilkan daftar menu, menavigasikan ke halaman detail untuk setiap item, hingga proses checkout. Proyek ini menerapkan konsep dasar Android seperti RecyclerView, Intent untuk navigasi, dan layouting XML.
 
 ![WhatsApp Image 2025-11-04 at 15 33 22_7ff663b4](https://github.com/user-attachments/assets/af86aaaa-6fa8-47e7-a8f3-367dedbf90ce)
 ![WhatsApp Image 2025-11-04 at 15 33 22_4b02f7d4](https://github.com/user-attachments/assets/6a05b161-f4c4-46bb-84fc-318de711b308)
